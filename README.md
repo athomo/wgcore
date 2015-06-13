@@ -1,0 +1,2 @@
+# wgcore
+KCore decomposition
